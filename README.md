@@ -1,6 +1,6 @@
 # TouCAN
 [YouTube Video](.)
-![PCB](./Images/TouCAN.jpg)
+![PCB](./Images/PCB.jpg)
 
 A compact, USB drive shaped USB to CAN bridge, primarily intended for 3D printers running Klipper firmware.
 
@@ -13,7 +13,7 @@ You can also use the included gerber files to order your own from a PCB manufact
 <br>
 
 ## Instructions
-Depending on how you sourced your TouCAN, your TouCAN might already have the firmware pre-flashed (units sold by me are pre-flashed). If yours doesn't have the firmware or if you need/want to reflash it, *~~TouCAN~~* you can follow the instructions below. 
+Depending on how you sourced your TouCAN, your TouCAN might already have the firmware pre-flashed (units sold by me are pre-flashed). If yours doesn't have the firmware or if you need/want to reflash it, you can follow the instructions below. 
 <details>
   <summary>Firmware Flashing</summary>
 
