@@ -1,10 +1,10 @@
-# TouCAN
+# PiCAN
 [YouTube Video](.)
 ![PCB](./Images/PCB.jpg)
 
 A compact, USB drive shaped USB to CAN bridge, primarily intended for 3D printers running Klipper firmware.
 
-## Purchasing a TouCAN
+## Purchasing a PiCAN
 - [Isik's Tech (Me) on Etsy (US)](.)
 
 This project is licensed under [GPL v3](./LICENSE), meaning vendors are allowed to sell KUSBA PCBs without paying me. If you'd like to support the development of this and future projects please consider [sponsoring](https://github.com/sponsors/xbst) me on GitHub. You can also subscribe on [Patreon](https://l.isiks.tech/patreon) or [YouTube](https://l.isiks.tech/member).
@@ -13,12 +13,12 @@ You can also use the included gerber files to order your own from a PCB manufact
 <br>
 
 ## Instructions
-Depending on how you sourced your TouCAN, your TouCAN might already have the firmware pre-flashed (units sold by me are pre-flashed). If yours doesn't have the firmware or if you need/want to reflash it, you can follow the instructions below. 
+Depending on how you sourced your PiCAN, your PiCAN might already have the firmware pre-flashed (units sold by me are pre-flashed). If yours doesn't have the firmware or if you need/want to reflash it, you can follow the instructions below. 
 <details>
   <summary>Firmware Flashing</summary>
 
 1. Download the [firmware](https://github.com/bigtreetech/U2C/blob/master/firmware/U2C_V1_STM32F072.bin).
-2. Connect the TouCAN to your PC while holding down the BOOT button on the TouCAN.
+2. Connect the PiCAN to your PC while holding down the BOOT button on the PiCAN.
 3. Download and install [STM32Cube Programmer](https://www.st.com/en/development-tools/stm32cubeprog.html). (Do not download the latest version, it is buggy)
 4. Select `USB` on the selecor in top right of the program (below `Not connected`). Click the refresh button next to the port selector. Select `USB1` and click connect.
 5. Click `+` next to `Device Memory`, and select `Open File`. Select the downloaded firmware file. Click `Download`. Firmware will be flashed.
