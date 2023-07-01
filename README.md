@@ -1,6 +1,6 @@
 # TouCAN
 [YouTube Video](.)
-![PCB](./Images/PCB.png)
+![PCB](./Images/TouCAN.jpg)
 
 A compact, USB drive shaped USB to CAN bridge, primarily intended for 3D printers running Klipper firmware.
 
