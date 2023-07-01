@@ -26,6 +26,8 @@ Depending on how you sourced your TouCAN, your TouCAN might already have the fir
 
 For Klipper CAN instructions, follow [the official Klipper docs](https://www.klipper3d.org/CANBUS.html).
 
+**Make sure your Raspberry Pi and your CAN devices have the GNDs connected. If they are powered from the same source, they should be connected. If unsure use your multimeter's continuity mode to test.**
+
 ## YouTube
 
 I am a YouTube content creator. If you want content about this project & more, please consider [subscribing to my YouTube channel](https://www.youtube.com/channel/UClAWYmCkHjsbaX9Wz1df2mg).
