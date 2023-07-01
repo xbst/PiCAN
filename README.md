@@ -1,11 +1,11 @@
 # PiCAN
-[YouTube Video](.)
+~~[YouTube Video](.)~~ soon
 ![PCB](./Images/PCB.jpg)
 
 A compact, USB drive shaped USB to CAN bridge, primarily intended for 3D printers running Klipper firmware.
 
 ## Purchasing a PiCAN
-- [Isik's Tech (Me) on Etsy (US)](.)
+- [Isik's Tech (Me) on Etsy (US)](https://www.etsy.com/listing/1514673745/pican-a-tiny-usb-to-can-bus-adapter)
 
 This project is licensed under [GPL v3](./LICENSE), meaning vendors are allowed to sell KUSBA PCBs without paying me. If you'd like to support the development of this and future projects please consider [sponsoring](https://github.com/sponsors/xbst) me on GitHub. You can also subscribe on [Patreon](https://l.isiks.tech/patreon) or [YouTube](https://l.isiks.tech/member).
 
