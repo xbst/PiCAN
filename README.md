@@ -26,20 +26,6 @@ Depending on how you sourced your TouCAN, your TouCAN might already have the fir
 
 For Klipper CAN instructions, follow [the official Klipper docs](https://www.klipper3d.org/CANBUS.html).
 
-## Folders
-
-Delete this.
-
-| Folder | For |
-| ------ | --- |
-| CAD | CAD models of the PCB and mounts |
-| Docs | Guides, extra docs |
-| EasyEDA-Source | Source .json files, in version folders |
-| Firmware | Klipper .cfg files, if multiple options available, in sub folders |
-| Gerbers | Gerbers in `Gerbers.zip`, BOM in `BOM.csv`, CPL in `PNP.csv`, in version folders under `Old-Versions` except latest which is in `Latest-Tested-Version`, add a `README.md` with the changelog |
-| Images | Images for docs |
-| Mounts | Mounts for the PCB, add a `README.md` |
-
 ## YouTube
 
 I am a YouTube content creator. If you want content about this project & more, please consider [subscribing to my YouTube channel](https://www.youtube.com/channel/UClAWYmCkHjsbaX9Wz1df2mg).
