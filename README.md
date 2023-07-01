@@ -2,7 +2,7 @@
 ~~[YouTube Video](.)~~ soon
 ![PCB](./Images/PCB.jpg)
 
-A compact, USB drive shaped USB to CAN bridge, primarily intended for 3D printers running Klipper firmware.
+A compact, USB drive shaped USB to CAN adapter, primarily intended for 3D printers running Klipper firmware.
 
 ## Purchasing a PiCAN
 - [Isik's Tech (Me) on Etsy (US)](https://www.etsy.com/listing/1514673745/pican-a-tiny-usb-to-can-bus-adapter)
@@ -26,7 +26,7 @@ Depending on how you sourced your PiCAN, your PiCAN might already have the firmw
 
 For Klipper CAN instructions, follow [the official Klipper docs](https://www.klipper3d.org/CANBUS.html).
 
-**Make sure your Raspberry Pi and your CAN devices have the GNDs connected. If they are powered from the same source, they should be connected already. If unsure use your multimeter's continuity mode to test.**
+**Make sure your Raspberry Pi and your CAN devices have the GNDs connected. If they are powered from the same source, they should already be connected. If unsure use your multimeter's continuity mode to test.**
 
 ## YouTube
 
