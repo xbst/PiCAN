@@ -26,7 +26,7 @@ Depending on how you sourced your PiCAN, your PiCAN might already have the firmw
 
 For Klipper CAN instructions, follow [the official Klipper docs](https://www.klipper3d.org/CANBUS.html).
 
-**Make sure your Raspberry Pi and your CAN devices have the GNDs connected. If they are powered from the same source, they should be connected. If unsure use your multimeter's continuity mode to test.**
+**Make sure your Raspberry Pi and your CAN devices have the GNDs connected. If they are powered from the same source, they should be connected already. If unsure use your multimeter's continuity mode to test.**
 
 ## YouTube
 
