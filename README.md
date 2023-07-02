@@ -1,13 +1,14 @@
 # PiCAN
-[YouTube Video](.)
+~~[YouTube Video](.)~~ soon
 ![PCB](./Images/PCB.jpg)
 
-A compact, USB drive shaped USB to CAN bridge, primarily intended for 3D printers running Klipper firmware.
+A compact, USB drive shaped USB to CAN adapter, primarily intended for 3D printers running Klipper firmware.
 
 ## Purchasing a PiCAN
-- [Isik's Tech (Me) on Etsy (US)](.)
+- [Isik's Tech (Me) on Etsy (US)](https://www.etsy.com/listing/1514673745/pican-a-tiny-usb-to-can-bus-adapter)
+- [Lab4450 (EU)](https://lab4450.com/product/pican-usb-to-can-adapter/)
 
-This project is licensed under [GPL v3](./LICENSE), meaning vendors are allowed to sell KUSBA PCBs without paying me. If you'd like to support the development of this and future projects please consider [sponsoring](https://github.com/sponsors/xbst) me on GitHub. You can also subscribe on [Patreon](https://l.isiks.tech/patreon) or [YouTube](https://l.isiks.tech/member).
+This project is licensed under [GPL v3](./LICENSE), meaning vendors are allowed to sell PiCAN PCBs without paying me. If you'd like to support the development of this and future projects please consider [sponsoring](https://github.com/sponsors/xbst) me on GitHub. You can also subscribe on [Patreon](https://l.isiks.tech/patreon) or [YouTube](https://l.isiks.tech/member).
 
 You can also use the included gerber files to order your own from a PCB manufacturer like [PCBWay](https://www.pcbway.com/setinvite.aspx?inviteid=374841) or [JLCPCB](https://jlcpcb.com/).
 <br>
@@ -26,7 +27,7 @@ Depending on how you sourced your PiCAN, your PiCAN might already have the firmw
 
 For Klipper CAN instructions, follow [the official Klipper docs](https://www.klipper3d.org/CANBUS.html).
 
-**Make sure your Raspberry Pi and your CAN devices have the GNDs connected. If they are powered from the same source, they should be connected. If unsure use your multimeter's continuity mode to test.**
+**Make sure your Raspberry Pi and your CAN devices have the GNDs connected. If they are powered from the same source, they should already be connected. If unsure use your multimeter's continuity mode to test.**
 
 ## YouTube
 
