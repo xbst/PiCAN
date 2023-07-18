@@ -1,5 +1,5 @@
 # PiCAN
-~~[YouTube Video](.)~~ soon
+[YouTube Video](https://youtu.be/SH-faxCCbi8)
 ![PCB](./Images/PCB.jpg)
 
 A compact, USB drive shaped USB to CAN adapter, primarily intended for 3D printers running Klipper firmware.
