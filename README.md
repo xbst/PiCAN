@@ -9,6 +9,7 @@ A compact, USB drive shaped USB to CAN adapter, primarily intended for 3D printe
 - [xbst_1 (Me) on eBay (US)](https://www.ebay.com/itm/155656627545)
 - [XR Bunker (US)](https://xrbunker.works/products/pican-by-xbst_isik)
 - [Lab4450 (EU)](https://lab4450.com/product/pican-usb-to-can-adapter/)
+- [Unique Prints (AU)](https://uniqueprints.shop/shop/electronics-electrical/pcb/pican-usb-to-can-adaptor-for-klipper/)
 
 This project is licensed under [GPL v3](./LICENSE), meaning vendors are allowed to sell PiCAN PCBs without paying me. If you'd like to support the development of this and future projects please consider [sponsoring](https://github.com/sponsors/xbst) me on GitHub. You can also subscribe on [Patreon](https://l.isiks.tech/patreon) or [YouTube](https://l.isiks.tech/member).
 
