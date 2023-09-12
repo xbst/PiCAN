@@ -5,7 +5,6 @@
 A compact, USB drive shaped USB to CAN adapter, primarily intended for 3D printers running Klipper firmware.
 
 ## Purchasing a PiCAN
-- [Isik's Tech (Me) on Etsy (US)](https://isikstech.etsy.com/listing/1514673745/pican-a-tiny-usb-to-can-bus-adapter?utm_source=Copy&utm_medium=ListingManager&utm_campaign=Share&utm_term=so.lmsm&share_time=1694159253066)
 - [xbst_1 (Me) on eBay (US)](https://www.ebay.com/itm/155656627545)
 - [XR Bunker (US)](https://xrbunker.works/products/pican-by-xbst_isik)
 - [Lab4450 (EU)](https://lab4450.com/product/pican-usb-to-can-adapter/)
