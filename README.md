@@ -7,7 +7,7 @@ A compact, USB drive shaped USB to CAN adapter, primarily intended for 3D printe
 ## Purchasing a PiCAN
 ### United States
 - [Amazon - Prime Shipping](https://www.amazon.com/dp/B0CGLC87S5)
-- [Isik's Tech Store](https://store.isiks.tech/products/pican-usb-to-can-bus-adapter)
+- [Isik's Tech Store](https://store.isiks.tech/products/pican-usb-to-can-bus-adapter) (Me)
 - [eBay](https://www.ebay.com/itm/155656627545)
 - [XR Bunker](https://xrbunker.works/products/pican-by-xbst_isik)
 ### Canada
