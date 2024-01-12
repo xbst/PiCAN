@@ -8,7 +8,6 @@ A compact, USB drive shaped USB to CAN adapter, primarily intended for 3D printe
 ### United States
 - [Amazon - Prime Shipping](https://www.amazon.com/Isiks-Tech-PiCAN-Adapter-Printers/dp/B0CGLC87S5?maas=maas_adg_67FD4409E83516E2C5BBA977580D0B6B_afap_abs&ref_=aa_maas&tag=maas)
 - [Isik's Tech Store](https://store.isiks.tech/products/pican-usb-to-can-bus-adapter) (Me)
-- [eBay](https://www.ebay.com/itm/155656627545) (Me - International)
 - [West3D](https://west3d.com/products/pican-a-tiny-usb-to-can-bus-adapter-by-isikstech)
 - [XR Bunker](https://xrbunker.works/products/pican-by-xbst_isik)
 ### Canada
