@@ -16,6 +16,7 @@ A compact, USB drive shaped USB to CAN adapter, primarily intended for 3D printe
 - [Lab4450 - Portugal](https://lab4450.com/product/pican-usb-to-can-adapter/)
 ### Australia
 - [Unique Prints](https://uniqueprints.shop/shop/electronics-electrical/pcb/pican-usb-to-can-adaptor-for-klipper/)
+- [DREMC](https://store.dremc.com.au/products/pican-usb-to-can-bus-adapter)
 
 This project is licensed under [GPL v3](./LICENSE), meaning vendors are allowed to sell PiCAN PCBs without paying me. If you'd like to support the development of this and future projects please consider [sponsoring](https://github.com/sponsors/xbst) me on GitHub. You can also subscribe on [Patreon](https://l.isiks.tech/patreon) or [YouTube](https://l.isiks.tech/member).
 
