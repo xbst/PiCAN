@@ -35,6 +35,9 @@ Depending on how you sourced your PiCAN, your PiCAN might already have the firmw
 5. Click `+` next to `Device Memory`, and select `Open File`. Select the downloaded firmware file. Click `Download`. Firmware will be flashed.
 </details>
 
+Wire the CAN cables according to this diagram:
+![Wiring](./Images/Wiring.png)
+
 For Klipper CAN instructions, follow [the official Klipper docs](https://www.klipper3d.org/CANBUS.html).
 
 **Make sure your Raspberry Pi and your CAN devices have the GNDs connected. If they are powered from the same source, they should already be connected. If unsure use your multimeter's continuity mode to test.**
