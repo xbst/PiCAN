@@ -5,10 +5,18 @@
 A compact, USB drive shaped USB to CAN adapter, primarily intended for 3D printers running Klipper firmware.
 
 ## Purchasing a PiCAN
-- [Isik's Tech (Me) on Etsy (US)](https://www.etsy.com/listing/1514673745/pican-a-tiny-usb-to-can-bus-adapter)
-- [xbst_1 (Me) on eBay (US)](https://www.ebay.com/itm/155656627545)
-- [XR Bunker (US)](https://xrbunker.works/products/pican-by-xbst_isik)
-- [Lab4450 (EU)](https://lab4450.com/product/pican-usb-to-can-adapter/)
+### United States
+- [Amazon - Prime Shipping](https://www.amazon.com/Isiks-Tech-PiCAN-Adapter-Printers/dp/B0CGLC87S5?maas=maas_adg_67FD4409E83516E2C5BBA977580D0B6B_afap_abs&ref_=aa_maas&tag=maas)
+- [Isik's Tech Store](https://store.isiks.tech/products/pican-usb-to-can-bus-adapter) (Me)
+- [West3D](https://west3d.com/products/pican-a-tiny-usb-to-can-bus-adapter-by-isikstech)
+- [XR Bunker](https://xrbunker.works/products/pican-by-xbst_isik)
+### Canada
+- [Amazon - Ships from the US](https://www.amazon.ca/dp/B0CGLC87S5)
+### European Union
+- [Lab4450 - Portugal](https://lab4450.com/product/pican-usb-to-can-adapter/)
+### Australia
+- [Unique Prints](https://uniqueprints.shop/shop/electronics-electrical/pcb/pican-usb-to-can-adaptor-for-klipper/)
+- [DREMC](https://store.dremc.com.au/products/pican-usb-to-can-bus-adapter)
 
 This project is licensed under [GPL v3](./LICENSE), meaning vendors are allowed to sell PiCAN PCBs without paying me. If you'd like to support the development of this and future projects please consider [sponsoring](https://github.com/sponsors/xbst) me on GitHub. You can also subscribe on [Patreon](https://l.isiks.tech/patreon) or [YouTube](https://l.isiks.tech/member).
 
