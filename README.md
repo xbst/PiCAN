@@ -5,16 +5,32 @@
 A compact, USB drive shaped USB to CAN adapter, primarily intended for 3D printers running Klipper firmware.
 
 ## Purchasing a PiCAN
-### United States
+### Buy From Me
+- Each PCB tested by me
+- All connectors needed are included (if applicable)
+- Supports the development of open-source projects like this
+- Ships worldwide
+
+#### United States
+[Isik's Tech Store](https://store.isiks.tech/products/pican-usb-to-can-bus-adapter)
+
+### Resellers
+- Each PCB tested by me
+- All connectors needed are included (if applicable)
+- Supports the development of open-source projects like this
+#### United States
 - [Amazon - Prime Shipping](https://www.amazon.com/Isiks-Tech-PiCAN-Adapter-Printers/dp/B0CGLC87S5?maas=maas_adg_67FD4409E83516E2C5BBA977580D0B6B_afap_abs&ref_=aa_maas&tag=maas)
-- [Isik's Tech Store](https://store.isiks.tech/products/pican-usb-to-can-bus-adapter) (Me)
 - [West3D](https://west3d.com/products/pican-a-tiny-usb-to-can-bus-adapter-by-isikstech)
-- [XR Bunker](https://xrbunker.works/products/pican-by-xbst_isik)
-### Canada
+#### Canada
 - [Amazon - Ships from the US](https://www.amazon.ca/dp/B0CGLC87S5)
-### European Union
+
+### Other Trusted Vendors
+These vendors source their PCBs from other sources, but are trusted vendors on Voron and Voron-related communities.
+#### United States
+- [XR Bunker](https://xrbunker.works/products/pican-by-xbst_isik)
+#### European Union
 - [Lab4450 - Portugal](https://lab4450.com/product/pican-usb-to-can-adapter/)
-### Australia
+#### Australia
 - [Unique Prints](https://uniqueprints.shop/shop/electronics-electrical/pcb/pican-usb-to-can-adaptor-for-klipper/)
 - [DREMC](https://store.dremc.com.au/products/pican-usb-to-can-bus-adapter)
 
